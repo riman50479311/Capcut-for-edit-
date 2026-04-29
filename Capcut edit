@@ -2,13 +2,14 @@
   {
     "appName": "CapCut",
     "packageName": "com.lemon.lvoverseas",
-    "versionCode": 17400300,
-    "updateUrl": "আপনার_টেলিগ্রাম_চ্যানেলের_লিঙ্ক",
-    "title": "নতুন আপডেট!",
-    "description": "ভিআইপি ফিচার এবং স্ট্যাবিলিটি উন্নত করতে আপডেট করুন।",
+    "versionCode": 18000000,
+    "updateUrl": "আপনার_টেলিগ্রাম_লিঙ্ক_এখানে",
+    "title": "নতুন আপডেট এসেছে!",
+    "description": "আপনার অ্যাপের ভার্সনটি পুরনো হয়ে গেছে। দয়া করে লেটেস্ট ভার্সনে আপডেট করুন।",
     "isForce": true,
-    "isExpired": false,
-    "expiryDate": "2027-01-01",
+    "isExpired": true,
+    "expiryDate": "2026-04-29",
+    "closeButtonText": "বন্ধ করুন",
     "updateButtonText": "এখনই আপডেট করুন"
   }
 ]
