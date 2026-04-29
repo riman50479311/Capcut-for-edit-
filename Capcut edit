@@ -8,7 +8,7 @@
     "description": "আপনার অ্যাপের ভার্সনটি পুরনো হয়ে গেছে। দয়া করে লেটেস্ট ভার্সনে আপডেট করুন।",
     "isForce": true,
     "isExpired": true,
-    "expiryDate": "2026-04-29",
+    "expiryDate": "2020-04-29",
     "closeButtonText": "বন্ধ করুন",
     "updateButtonText": "এখনই আপডেট করুন"
   }
